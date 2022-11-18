@@ -7,6 +7,10 @@ const connect = () => {
     port: 50541 //PORT number here,
   });
 
+  conn.on('data', (data) => {
+    console.log(data);
+  });
+
   //interpret incoming data as text
   conn.setEncoding('utf8');
 
