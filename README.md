@@ -13,7 +13,7 @@ This project was created and published by [Jerome Lagbas](https://github.com/jer
 
 ## In-game Screenshots
 
-![/snake-game-screenshot.gif](#)
+![snake-game-screenshot.gif](./snake-game-screenshot.gif)
 
 
 ## Getting Started
