@@ -11,7 +11,7 @@ Before you can run this client, you will need to be running the server side whic
 
 This project was created and published by [Jerome Lagbas](https://github.com/jeromealmir) as part of the Web Development program at Lighthouse Labs.
 
-## In-game Screenshots
+## Game Trailer
 
 ![snake-game-screenshot.gif](./snake-game-screenshot.gif)
 
