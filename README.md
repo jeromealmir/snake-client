@@ -35,8 +35,8 @@ This project was created and published by [Jerome Lagbas](https://github.com/jer
 **Starting the game**
 - The server must be running before starting the game client! (*Refer to server installation instructions above*)
 - Start the game client by typing the following in your client terminal window:
-<br>
-```node play.js SNK <set your player name max of 3 letters>```
+`node play.js SNK`
+- Set your player name (*max of 3 letters*) by appending 3 letters after `node play.js`.
 
 ## Game Controls
 
