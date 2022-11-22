@@ -53,4 +53,4 @@ This project was created and published by [Jerome Lagbas](https://github.com/jer
 - Say: Goodbye!: Press <kbd>B</kbd>
 
 **Quit the game**
--Press <kbd>Q</kbd> or <kbd>CTRL</kbd> + <kbd>C</kbd>
+- Press <kbd>Q</kbd> or <kbd>CTRL</kbd> + <kbd>C</kbd>
